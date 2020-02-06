@@ -5,8 +5,10 @@ local: en_US
 
 owner:
   name: Markus Wehr
-  bio: "This is my personal website. Here you can find some information about me and the projects I have been working on. 
-  Always looking for interesting projects to discuss, so feel free to contact me."
+  avatar: ![](image/headshot.png)
+  bio: "This is my personal website."
   email: mwehr@uchicago.edu
   linkedin: markus-wehr
+  github: markuswehr
+  name: Markus Wehr
   
