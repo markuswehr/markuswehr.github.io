@@ -1,3 +1,6 @@
+<img src="https://raw.github.com/markuswehr/markuswehr.github.io/tree/master/images/headshot.jpg" width="300">
+
+<img src="https://some-img-host.com/1234567/image.png" width=300 align=right>
 
 # Markus Wehr
 
