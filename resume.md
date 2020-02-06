@@ -1,4 +1,4 @@
-<img src="images/headshot_PNG.png" width="300" height="300">
+<img src="images/headshot_PNG.png" width="200" height="200">
 
 # Markus Wehr
 
