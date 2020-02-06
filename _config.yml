@@ -5,7 +5,7 @@ local: en_US
 
 owner:
   name: Markus Wehr
-  avatar: ![](image/headshot.png)
+  avatar: <img src="images/headshot_PNG.png" width="200" height="200">
   bio: "This is my personal website."
   email: mwehr@uchicago.edu
   linkedin: markus-wehr
