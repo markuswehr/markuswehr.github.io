@@ -1,3 +1,9 @@
+---
+layout: page
+title: resume
+---
+
+
 <img src="images/headshot_PNG.png" width="200" height="200">
 
 # Markus Wehr
