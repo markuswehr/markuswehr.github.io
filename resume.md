@@ -1,3 +1,4 @@
+![](images/headshot.jpg)
 
 # Markus Wehr
 
