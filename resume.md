@@ -1,8 +1,3 @@
----
-layout: resume
----
-
-![](images/MarkusWehr_headshot.jpg)
 
 # Markus Wehr
 
