@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+
+title: Welcome to the Personal Website of Markus Wehr!
+local: en_US
+
+owner:
+  name: Markus Wehr
+  bio: "This is my personal website. Here you can find some information about me and the projects I have been working on. 
+  Always looking for interesting projects to discuss, so feel free to contact me."
+  email: mwehr@uchicago.edu
+  linkedin: markus-wehr
+  
