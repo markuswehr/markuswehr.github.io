@@ -1,4 +1,4 @@
-![](images/headshot.jpg =300x300)
+![](images/headshot.jpgs=300)
 
 # Markus Wehr
 
