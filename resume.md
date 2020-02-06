@@ -1,6 +1,10 @@
-<img src="https://raw.github.com/markuswehr/markuswehr.github.io/tree/master/images/headshot.jpg" width="300">
+---
+layout: page
+title: resume
+---
 
-<img src="https://some-img-host.com/1234567/image.png" width=300 align=right>
+
+<img src="images/headshot_PNG.png" width="200" height="200">
 
 # Markus Wehr
 
