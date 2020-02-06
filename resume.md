@@ -1,4 +1,4 @@
-<img src="https://raw.github.com/markuswehr/markuswehr.github.io/tree/master/images/headshot_PNG.png" width="300">
+<img src="images/headshot_PNG.png" width="300" height="300">
 
 # Markus Wehr
 
