@@ -5,20 +5,20 @@
 ### Analytics Projects
 
 [Applying ML to Scouting in Soccer](/sample_page)
-<img src="images/Soccer_thumbnail.jpg?raw=true"/>
+<img src="images/Soccer_thumbnail.png?raw=true"/>
 
 ---
 [Hackerrank Challenges](/pdf/sample_presentation.pdf)
-<img src="images/Hackerrank_thumbnail.png?raw=true"/>
+<img src="images/Hackerrank_thumbnail.jpg?raw=true"/>
 
 ---
 [Ad-Fraud Detection](http://example.com/)
-<img src="images/AdFraud_thumbnail.png?raw=true"/>
+<img src="images/AdFraud_thumbnail.jpg?raw=true"/>
 
 ---
 
 [News classifier (Natural Language Processing)](http://example.com/)
-<img src="images/NLP_thumbnail.jpg?raw=true"/>
+<img src="images/NLP_thumbnail.png?raw=true"/>
 
 ---
 
