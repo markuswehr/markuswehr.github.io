@@ -1,3 +1,3 @@
-[Back](markuswehr.github.io/index.md)
+[Back](../index.md)
 
 First blog
