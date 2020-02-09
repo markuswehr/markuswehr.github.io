@@ -54,7 +54,7 @@
 
 **Language Skills:** English (Full professional proficiency), German (Native speaker), Russian (Beginner)
 
-**Hobbys:** Soccer ![](/images/soccer_emoji.png); kayaking :rowing_man:; running :running_man:; cooking :man_cook:
+**Hobbys:** Soccer <img src="images/soccer_emoji.png?raw=true"/>; kayaking <img src="images/kayak_emoji.png?raw=true"/>; running <img src="images/running_emoji.png?raw=true"/>; cooking <img src="images/cooking_emoji.png?raw=true"/>
 
 <!-- ### Footer
 
