@@ -27,7 +27,7 @@
 
 [Analysing Bike Sharing in Chicago - Data Engineering](/pdf/DataEngineering_Presentation.pdf)
 <br><br>
-<img src="images/NLP_thumbnail.png?raw=true" width="300" height="150"/>
+<img src="images/DataEngineering_thumbnail.jfif?raw=true" width="300" height="150"/>
 
 ---
 
