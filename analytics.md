@@ -1,6 +1,6 @@
 [Back](/index.md)
 
-## Analytics Projects
+## Analytical Projects
 
 [Soccer Scouting: Get the Best Bang for Your Buck - Machine Learning](/soccer.md)
 <br><br>
