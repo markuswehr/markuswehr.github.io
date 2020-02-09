@@ -2,8 +2,6 @@
 
 ## About me - Markus Wehr
 
-<img src="images/headshot.jpg?raw=true" width="100" height="100"/>
-
 ### EDUCATION
 
 **The University of Chicago** | MSc. in Analytics | Chicago, IL<br/>
