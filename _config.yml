@@ -2,7 +2,8 @@ title: Markus Wehr # your name (or website title) here
 logo: <img src="images/headshot.jpg?raw=true" width="200" height="200"/> #"/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my personal website!<br>
-  I am currently a graduate student in Analytics at the University of Chicago originally from Germany. Previously, I have studied Management, Finance, and Accounting and I have worked in banking and consulting for about 3 1/2 years. In my free time, I enjoy playing soccer or going for a run and I am also trying to pick up some Russian. Please check out my site to learn more!
+  I am currently a graduate student in Analytics at the University of Chicago originally from Germany. Previously, I have studied Management, Finance, and Accounting and I have worked in banking and consulting for about 3 1/2 years. In my free time, I enjoy playing soccer or going for a run and I am also trying to pick up some Russian.<br>
+  Please check out my site to learn more!
   
 theme: jekyll-theme-slate
 google_analytics: UA-158041091-1 # your Google Analytics tracking ID here
