@@ -4,7 +4,7 @@
 
 ### Analytics Projects
 
-[Applying ML to Scouting in Soccer](/pdf/Soccer_Presentation.pdf)
+[Applying ML to Scouting in Soccer](/pdf/Scouting_Presentation.pdf)
 <br><br>
 <img src="images/Soccer_thumbnail.jfif?raw=true"/>
 
