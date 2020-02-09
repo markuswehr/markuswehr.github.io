@@ -1,7 +1,5 @@
 [Back](/index.md)
 
-<img src="images/headshot.jpg?raw=true" width="100" height="100"/><br>
-
 ### EDUCATION
 
 **The University of Chicago** | MSc. in Analytics | Chicago, IL<br/>
