@@ -6,6 +6,6 @@ I am an analytically driven, curious, and communicative person who loves to chal
 
 When I am not working or learning, I love playing soccer, going for a run or kayaking and I am also trying to pick up some Russian at the moment. Another hobby of mine is cooking, especially when friends are around (It's really more about good conversations than the perfect meal).<br><br>
 
-If you would like to get in contact, shoot me a message on [linkedin](https://www.linkedin.com/in/markus-wehr) or send me an [email](mwehr@uchicago.edu). I am always happy to chat!<br><br>
+If you would like to get in contact, shoot me a message on [linkedin](https://www.linkedin.com/in/markus-wehr) or send me an [email](mailto:mwehr@uchicago.edu?subject=[GitHub]%20Source%20Han%20Sans). I am always happy to chat!<br><br>
 
 Thank you / Vielen Dank / Спасибо / 감사합니다 / 谢谢
