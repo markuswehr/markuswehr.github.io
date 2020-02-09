@@ -11,7 +11,7 @@
 
 ---
 
-## [What else? - My Blog Posts](/blog/blog_test.md)
+## [What else? - My Blog Posts](/blogs.md)
 
 
 ---
