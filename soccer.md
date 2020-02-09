@@ -1,4 +1,4 @@
-[Back](/index.md)
+[Back](/analytics.md)
 
 ## Soccer Scouting: Get the Best Bang for Your Buck - Machine Learning
 
