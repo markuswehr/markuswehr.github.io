@@ -2,18 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Analytics Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Applying ML to Scouting in Soccer](/sample_page)
+<img src="images/Soccer_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hackerrank Challenges](/pdf/sample_presentation.pdf)
+<img src="images/Hackerrank_thumbnail.png?raw=true"/>
+
+---
+[Ad-Fraud Detection](http://example.com/)
+<img src="images/AdFraud_thumbnail.png?raw=true"/>
+
+---
+
+[News classifier (Natural Language Processing)](http://example.com/)
+<img src="images/NLP_thumbnail.jpg?raw=true"/>
 
 ---
 
