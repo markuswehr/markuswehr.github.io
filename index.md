@@ -1,15 +1,15 @@
 <br><br>
 <br><br>
 
-## [More about me](/about.md)
+## [About](/about.md)
 
 ---
 
-## [Analytics Projects](/analytics.md)
+## [Analytical Projects](/analytics.md)
 
 ---
 
-## [What else? - Blog Posts](/blog.md)
+## [A collection articles I find interesting](/blog.md)
 
 ---
 
