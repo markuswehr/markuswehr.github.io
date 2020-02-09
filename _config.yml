@@ -1,7 +1,7 @@
 title: Markus Wehr # your name (or website title) here
 logo: "images/headshot.png?raw=true" #"/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome to my personal website!<br>
+  Welcome to my personal website!<br><br>
   Education: MSc Analytics; MSc Mgmt, Finance and Accounting<br><br>
   Experience: 3 1/2 years banking and consulting experience<br><br>
   Technical skills: Python, R, Spark, Hadoop, Git, SQL, Google Cloud, Tableau, invision, Excel, PowerPoint<br><br>
