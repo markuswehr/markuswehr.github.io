@@ -9,10 +9,6 @@
 
 ---
 
-## [A collection articles I find interesting](/blog.md)
-
----
-
 ## [Resume](/resume.md)
 
 ---
