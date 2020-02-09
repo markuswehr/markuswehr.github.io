@@ -1,3 +1,5 @@
+[Back](/index.md)
+
 ## Hackerrank Challenges
 
 The linked repository holds some of the functions I have created by solving Hackerrank challenges.<br><br>
