@@ -1,14 +1,6 @@
----
-layout: page
-title: resume
----
+## About me - Markus Wehr
 
-
-<img src="images/headshot_PNG.png" width="200" height="200">
-
-# Markus Wehr
-
-## EDUCATION
+### EDUCATION
 
 **The University of Chicago** | MSc. in Analytics | Chicago, IL<br/>
 *Mar 2019-Jun 2020*
@@ -28,7 +20,7 @@ title: resume
 *Oct 2012-Sep 2015*
 * Exchange programs in Shanghai, China (Jun-Jul 2014) and Waterford, Ireland (Jun-Jul 2013)
 
-## ANALYTICAL PROJECTS
+### ANALYTICAL PROJECTS
 
 **NLP** | *IBM Inc. - Cognitive Supply Chain Management*<br/>
 *Oct 2019-Mar 2020*
@@ -47,25 +39,18 @@ title: resume
 * Leveraged statistical analysis, such as PCA and linear regression, for analyzing treasury bonds and interest rates in R 
 * Deployed Logistic Regression to predict tightening and easing cycles in monetary policy with an accuracy of ~80% 
 
-## PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 
 **[PricewaterhouseCoopers](https://www.pwc.com/)** | M&A Consultant | Frankfurt am Main, Germany<br/>
-*Sep 2017-Nov 2017*
-* Performed due diligence on ten potential targets for a listed German semiconductor manufacturer with revenue of ~$7.5b 
-* Compiled profiles including financials and market environment in a document and presented findings to the management 
-* Set up a valuation model which has later been approved by the client’s management and identified potential buyers for a surfactants chemical plant in Germany with a concluded deal size of ~$ 100m 
-* Took responsibility for organizational parts, such as gathering and categorizing information and arranging meetings 
+*Sep 2017-Nov 2017*<br><br>
 
 **[DZ Bank AG](https://www.dzbank.com/)** | M&A Analyst | Hamburg, Germany<br/>
-*Aug 2016-Oct 2016*
-* Queried C-suite officers of a German car dealer about the firm’s expected development to later built a DCF-model 
+*Aug 2016-Oct 2016*<br><br>
 
 **[Sparkasse](https://www.sparkasse.de/)** | Trainee in Commercial Banking | Germany<br/>
-*Aug 2012-Sep 2015*
-* Created a model to score investment funds based on customer needs by implementing a conjoint analysis in R 
-* Trained interns and college trainees on topics such as credit and asset management 
+*Aug 2012-Sep 2015*<br><br>
 
-## OTHER
+### OTHER
 
 **Language Skills:** English (Full professional proficiency), German (Native speaker), Russian (Beginner)
 
