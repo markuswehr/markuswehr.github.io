@@ -22,6 +22,17 @@
 *Oct 2012-Sep 2015*
 * Exchange programs in Shanghai, China (Jun-Jul 2014) and Waterford, Ireland (Jun-Jul 2013)
 
+### PROFESSIONAL EXPERIENCE
+
+**[PricewaterhouseCoopers](https://www.pwc.com/)** | M&A Consultant | Frankfurt am Main, Germany<br/>
+*Sep 2017-Nov 2017*<br><br>
+
+**[DZ Bank AG](https://www.dzbank.com/)** | M&A Analyst | Hamburg, Germany<br/>
+*Aug 2016-Oct 2016*<br><br>
+
+**[Sparkasse](https://www.sparkasse.de/)** | Trainee in Commercial Banking | Germany<br/>
+*Aug 2012-Sep 2015*<br><br>
+
 ### ANALYTICAL PROJECTS
 
 **NLP** | *IBM Inc. - Cognitive Supply Chain Management*<br/>
@@ -40,17 +51,6 @@
 *Apr 2019-May 2019*
 * Leveraged statistical analysis, such as PCA and linear regression, for analyzing treasury bonds and interest rates in R 
 * Deployed Logistic Regression to predict tightening and easing cycles in monetary policy with an accuracy of ~80% 
-
-### PROFESSIONAL EXPERIENCE
-
-**[PricewaterhouseCoopers](https://www.pwc.com/)** | M&A Consultant | Frankfurt am Main, Germany<br/>
-*Sep 2017-Nov 2017*<br><br>
-
-**[DZ Bank AG](https://www.dzbank.com/)** | M&A Analyst | Hamburg, Germany<br/>
-*Aug 2016-Oct 2016*<br><br>
-
-**[Sparkasse](https://www.sparkasse.de/)** | Trainee in Commercial Banking | Germany<br/>
-*Aug 2012-Sep 2015*<br><br>
 
 ### OTHER
 
