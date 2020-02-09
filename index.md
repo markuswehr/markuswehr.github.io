@@ -4,7 +4,7 @@
 
 ### Analytics Projects
 
-[Applying ML to Scouting in Soccer](/pdf/Scouting_Presentation.pdf)
+[Soccer Scouting: Get the Best Bang for Your Buck - Machine Learning](/pdf/Scouting_Presentation.pdf)
 <br><br>
 <img src="images/Soccer_thumbnail.jfif?raw=true" width="300" height="150"/>
 
@@ -14,12 +14,18 @@
 <img src="images/Hackerrank_thumbnail.png?raw=true" width="300" height="150"/>
 
 ---
-[Ad-Fraud Detection](/pdf/AdFraud_Presentation.pdf)
+[Detecting Click-fraud in Online Ads - Machine Learning](/pdf/AdFraud_Presentation.pdf)
 <br><br>
 <img src="images/AdFraud_thumbnail.png?raw=true" width="300" height="150"/>
 
 ---
-[News classifier (Natural Language Processing)](/pdf/NLP_Presentation.pdf)
+[Why are people leaving Illinois? - Natural Language Processing](/pdf/NLP_Presentation.pdf)
+<br><br>
+<img src="images/NLP_thumbnail.png?raw=true" width="300" height="150"/>
+
+---
+
+[Analysing Bike Sharing in Chicago - Data Engineering](/pdf/DataEngineering_Presentation.pdf)
 <br><br>
 <img src="images/NLP_thumbnail.png?raw=true" width="300" height="150"/>
 
