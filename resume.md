@@ -1,7 +1,5 @@
 [Back](/index.md)
 
-## About me - Markus Wehr
-
 ### EDUCATION
 
 **The University of Chicago** | MSc. in Analytics | Chicago, IL<br/>
