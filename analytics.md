@@ -2,28 +2,28 @@
 
 ## Analytics Projects
 
-[Soccer Scouting: Get the Best Bang for Your Buck - Machine Learning](/projects/soccer.md)
+[Soccer Scouting: Get the Best Bang for Your Buck - Machine Learning](/soccer.md)
 <br><br>
 <img src="images/Soccer_thumbnail.jfif?raw=true" width="300" height="150"/>
 
 ---
-[Hackerrank Challenges](/projects/hackerrank.md)
+[Hackerrank Challenges](/hackerrank.md)
 <br><br>
 <img src="images/Hackerrank_thumbnail.png?raw=true" width="300" height="150"/>
 
 ---
-[Detecting Click-fraud in Online Ads - Machine Learning](/projects/adfraud.md)
+[Detecting Click-fraud in Online Ads - Machine Learning](/adfraud.md)
 <br><br>
 <img src="images/AdFraud_thumbnail.png?raw=true" width="300" height="150"/>
 
 ---
-[Why are people leaving Illinois? - Natural Language Processing](/projects/nlp.md)
+[Why are people leaving Illinois? - Natural Language Processing](/nlp.md)
 <br><br>
 <img src="images/NLP_thumbnail.png?raw=true" width="300" height="150"/>
 
 ---
 
-[Analysing Bike Sharing in Chicago - Data Engineering](/projects/divvy.md)
+[Analysing Bike Sharing in Chicago - Data Engineering](/divvy.md)
 <br><br>
 <img src="images/DataEngineering_thumbnail.jfif?raw=true" width="300" height="150"/>
 
