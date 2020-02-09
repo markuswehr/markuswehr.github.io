@@ -1,3 +1,5 @@
+[Back](/index.md)
+
 ## Why are people leaving Illinois? - Natural Language Processing
 
 Utilizing different Natural Language Processing techniques to extract insights from news articles on why people are leaving Illinois and what could be done to reverse this trend. Techniques used include Topic Detection, Sentiment Analysis, and Entity Recognition.<br><br>
