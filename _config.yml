@@ -1,8 +1,8 @@
 title: Markus Wehr # your name (or website title) here
 logo: <img src="images/headshot.jpg?raw=true" width="200" height="200"/> #"/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <img src="images/headshot.jpg?raw=true" width="100" height="100"/>
   Welcome to my personal website! 
-  <br><br>
   This website will host some of my analytical projects, blog posts, and personal information.
   <br><br>
   <a href="https://www.linkedin.com/in/markus-wehr">View My LinkedIn Profile</a> 
