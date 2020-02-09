@@ -6,22 +6,22 @@
 
 [Applying ML to Scouting in Soccer](/pdf/Scouting_Presentation.pdf)
 <br><br>
-<img src="images/Soccer_thumbnail.jfif?raw=true"/>
+<img src="images/Soccer_thumbnail.jfif?raw=true" width="300" height="150"/>
 
 ---
 [Hackerrank Challenges](/pdf/sample_presentation.pdf)
 <br><br>
-<img src="images/Hackerrank_thumbnail.png?raw=true"/>
+<img src="images/Hackerrank_thumbnail.png?raw=true" width="300" height="150"/>
 
 ---
 [Ad-Fraud Detection](/pdf/AdFraud_Presentation.pdf)
 <br><br>
-<img src="images/AdFraud_thumbnail.png?raw=true"/>
+<img src="images/AdFraud_thumbnail.png?raw=true" width="300" height="150"/>
 
 ---
 [News classifier (Natural Language Processing)](/pdf/NLP_Presentation.pdf)
 <br><br>
-<img src="images/NLP_thumbnail.png?raw=true"/>
+<img src="images/NLP_thumbnail.png?raw=true" width="300" height="150"/>
 
 ---
 
