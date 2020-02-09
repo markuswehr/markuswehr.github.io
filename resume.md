@@ -18,7 +18,7 @@
 *Feb 2017-Jul 2017*
 * Coursework: Business Mining, Investment Theory 
 
-**Duale Hochschule Schleswig-Holstein** | BA in Business Administration (GPA: 3.8/4.0) | Germany<br/>
+**Duale Hochschule Schleswig-Holstein** | BA in Business Administration | Germany<br/>
 *Oct 2012-Sep 2015*
 * Exchange programs in Shanghai, China (Jun-Jul 2014) and Waterford, Ireland (Jun-Jul 2013)
 
