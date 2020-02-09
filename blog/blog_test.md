@@ -1,3 +1,2 @@
-[Back](../index.md)
 
-First blog
+## First blog
