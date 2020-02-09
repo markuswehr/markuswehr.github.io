@@ -2,7 +2,7 @@
 
 ---
 
-## Analytics Projects
+## [Analytics Projects](/analytics)
 
 ---
 
