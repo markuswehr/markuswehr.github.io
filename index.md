@@ -1,4 +1,7 @@
-## [More about me](/resume.md)
+<br><br>
+<br><br>
+
+## [More about me](/about.md)
 
 ---
 
@@ -6,8 +9,11 @@
 
 ---
 
-## [What else? - My Blog Posts](/blog.md)
+## [What else? - Blog Posts](/blog.md)
 
+---
+
+## [Resume](/resume.md)
 
 ---
 
