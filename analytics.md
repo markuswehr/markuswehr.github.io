@@ -1,3 +1,5 @@
+[Back](/index.md)
+
 ## Analytics Projects
 
 [Soccer Scouting: Get the Best Bang for Your Buck - Machine Learning](/pdf/Scouting_Presentation.pdf)
