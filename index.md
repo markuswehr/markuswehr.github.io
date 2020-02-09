@@ -9,7 +9,7 @@
 <img src="images/Soccer_thumbnail.jfif?raw=true" width="300" height="150"/>
 
 ---
-[Hackerrank Challenges](/pdf/sample_presentation.pdf)
+[Hackerrank Challenges](https://github.com/markuswehr/Hackerrank_Practice)
 <br><br>
 <img src="images/Hackerrank_thumbnail.png?raw=true" width="300" height="150"/>
 
