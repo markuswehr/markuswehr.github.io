@@ -9,7 +9,7 @@
 
 ---
 [Hackerrank Challenges](/pdf/sample_presentation.pdf)
-<img src="images/Hackerrank_thumbnail.jpg?raw=true"/>
+<img src="images/Hackerrank_thumbnail.jpg?raw=true width='2272' height='1278'"/>
 
 ---
 [Ad-Fraud Detection](http://example.com/)
