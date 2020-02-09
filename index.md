@@ -1,4 +1,4 @@
-## [About me](/resume.md)
+## [More about me](/resume.md)
 
 ---
 
