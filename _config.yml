@@ -1,12 +1,15 @@
 title: Markus Wehr # your name (or website title) here
 logo: "/images/headshot.png?raw=true" #"/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome to my personal website!<br><br>
-  Education: MSc Analytics; MSc Mgmt, Finance and Accounting<br><br>
-  Experience: 3 1/2 years banking and consulting experience<br><br>
-  Technical skills: Python, R, Spark, Hadoop, Git, SQL, Google Cloud, Tableau, invision, Excel, PowerPoint<br><br>
-  Languages: Fluent in German and English<br><br>
-  Please check out my website to learn more!
+  Welcome to my website!<br><br>
+  Education:<br>
+  MSc Analytics; MSc Mgmt, Finance and Accounting<br><br>
+  Experience:<br>
+  3 1/2 years banking and consulting experience<br><br>
+  Technical skills:<br>
+  Python, R, Spark, SQL, Google Cloud, Tableau, invision, Excel, PowerPoint<br><br>
+  Languages:<br>
+  Fluent in German and English<br><br>
   <br><br>
   <a href="https://www.linkedin.com/in/markus-wehr">View My LinkedIn Profile</a> 
   
