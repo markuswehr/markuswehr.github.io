@@ -5,7 +5,7 @@
 **The University of Chicago** | MSc. in Analytics | Chicago, IL<br/>
 *Mar 2019-Jun 2020*
 * Selected Coursework: Advanced Machine Learning & AI, Big Data Platforms, Statistical Analysis  Natural Language Processing, Deep Learning & Image Recognition, Linear & Non-Linear Models, Time Series Analysis 
-* Extracurricular: Board member of the MScA Analytics Consulting club; MScA Robotics Club 
+* Extracurricular: Board member of the [MScA Analytics Consulting club](https://github.com/uchicago-msca-club); MScA Robotics Club 
 
 **University of Luneburg** | MSc. in Mgmt & Finance and Accounting | Germany<br/>
 *Oct 2015-Dec 2018*
