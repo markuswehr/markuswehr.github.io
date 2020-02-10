@@ -23,7 +23,7 @@
 
 ---
 
-[Analysing Bike Sharing in Chicago - Data Engineering](/divvy.md)
+[Analyzing Bike Sharing in Chicago - Data Engineering](/divvy.md)
 <br><br>
 <img src="images/DataEngineering_thumbnail.jfif?raw=true" width="300" height="150"/>
 
