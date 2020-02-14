@@ -1,6 +1,6 @@
 ## Personal website
 
-This repository holds my website, where I share analytica projects of mine and some personal info.<br>
+This repository holds my website, where I share analytical projects of mine and some personal info.<br>
 References on how I built this website are listed below. Feel free to fork and use as a template.
 
 ___
