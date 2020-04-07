@@ -10,7 +10,7 @@
 **University of Luneburg** | MSc. in Mgmt & Finance and Accounting | Germany<br/>
 *Oct 2015-Dec 2018*
 * Extracurricular: Elected member of the Student Council (2016-2017); Hanseatic Investment Club 
-* Built databases using SQL and Excel as a research assistant at the institute of finance (Apr 2016-Feb 2017) 
+* Built databases using SQL and Excel as a research assistant at the institute of Banking, Finance & New Venture (Apr 2016-Feb 2017) 
 
 **Sungkyunkwan University Seoul** | Graduate School of Business (Semester abroad)| Seoul, Korea<br/>
 *Feb 2017-Jul 2017*
