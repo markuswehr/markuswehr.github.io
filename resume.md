@@ -35,9 +35,9 @@
 
 **NLP** | *IBM Inc. - Cognitive Supply Chain Management*<br/>
 *Oct 2019-Mar 2020*
-* Proactively managing disruptions in IBM’s supply chain consisting of over 580 suppliers worldwide using insights derived from ~60 million news articles scraped online and stored and processed in Google Cloud 
-* Implementing scrapers using scrapy and BeautifulSoup, utilizing topic modeling, classification, and sentiment analysis techniques to derive insights about risks related to politics, weather, or business, and drafting UI/UX solutions in invision 
-* Coordinating meetings, summarizing key takeaways, next steps, and action items for this project
+* Developing an early-warning system that detects geo-political-, weather- and business-related disruptions in IBM’s $8bn hardware supply chain, preventing IBM from potential million-dollar losses 
+* Applying DBSCAN, sentiment analysis, and snorkel to label ~60 million news articles scraped online and stored in GCP 
+* Created embeddings using word2vec and implemented a CNN for risk classification that led to an accuracy of ~98%, an improvement of ~20% compared to SVM, Logistic Regression, and Random Forest models 
 
 **Machine Learning** | *Chicago Fire (MLS) - Optimizing Scouting in Soccer*<br/>
 *Jun 2019-Aug 2019*
