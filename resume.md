@@ -3,9 +3,9 @@
 ### EDUCATION
 
 **The University of Chicago** | MSc. in Analytics | Chicago, IL<br/>
-*Mar 2019-Jun 2020*
+*Mar 2019-Aug 2020*
 * Selected Coursework: Advanced Machine Learning & AI, Big Data Platforms, Statistical Analysis  Natural Language Processing, Deep Learning & Image Recognition, Linear & Non-Linear Models, Time Series Analysis 
-* Extracurricular: Board member of the [MScA Analytics Consulting club](https://github.com/uchicago-msca-club); MScA Robotics Club 
+* Extracurricular: VP of the [MScA Analytics Consulting club](https://github.com/uchicago-msca-club)
 
 **University of Luneburg** | MSc. in Mgmt & Finance and Accounting | Germany<br/>
 *Oct 2015-Dec 2018*
@@ -22,6 +22,9 @@
 
 ### PROFESSIONAL EXPERIENCE
 
+**CharacTour** (Tech Start-up in the entertainment sector) | Data Scientist | Chicago, IL, USA<br/>
+*Apr 2020-Jun 2020*<br><br>
+
 **[PricewaterhouseCoopers](https://www.pwc.com/)** | M&A Consultant | Frankfurt am Main, Germany<br/>
 *Sep 2017-Nov 2017*<br><br>
 
@@ -34,7 +37,7 @@
 ### ANALYTICAL PROJECTS
 
 **NLP** | *IBM Inc. - Cognitive Supply Chain Management*<br/>
-*Oct 2019-Mar 2020*
+*Oct 2019-May 2020*
 * Developing an early-warning system that detects geo-political-, weather- and business-related disruptions in IBM’s $8bn hardware supply chain, preventing IBM from potential million-dollar losses 
 * Applying DBSCAN, sentiment analysis, and snorkel to label ~60 million news articles scraped online and stored in GCP 
 * Created embeddings using word2vec and implemented a CNN for risk classification that led to an accuracy of ~98%, an improvement of ~20% compared to SVM, Logistic Regression, and Random Forest models 
