@@ -18,12 +18,12 @@
 
 **Duale Hochschule Schleswig-Holstein** | BA in Business Administration | Germany<br/>
 *Oct 2012-Sep 2015*
-* Exchange programs in Shanghai, China (Jun-Jul 2014) and Waterford, Ireland (Jun-Jul 2013)
+* Six week excursions to Shanghai, China (Jun-Jul 2014) and Waterford, Ireland (Jun-Jul 2013)
 
 ### PROFESSIONAL EXPERIENCE
 
 **CharacTour** (Tech Start-up in the entertainment sector) | Data Scientist | Chicago, IL, USA<br/>
-*Apr 2020-Jun 2020*<br><br>
+*Apr 2020-Now*<br><br>
 
 **[PricewaterhouseCoopers](https://www.pwc.com/)** | M&A Consultant | Frankfurt am Main, Germany<br/>
 *Sep 2017-Nov 2017*<br><br>
@@ -36,22 +36,25 @@
 
 ### ANALYTICAL PROJECTS
 
-**NLP** | *IBM Inc. - Cognitive Supply Chain Management*<br/>
-*Oct 2019-May 2020*
-* Developing an early-warning system that detects geo-political-, weather- and business-related disruptions in IBM’s $8bn hardware supply chain, preventing IBM from potential million-dollar losses 
-* Applying DBSCAN, sentiment analysis, and snorkel to label ~60 million news articles scraped online and stored in GCP 
-* Created embeddings using word2vec and implemented a CNN for risk classification that led to an accuracy of ~98%, an improvement of ~20% compared to SVM, Logistic Regression, and Random Forest models 
+**Building a Cognitive Supply Chain System (Cooperation between IBM and UChicago)**<br/>
+*Oct 2019-Jun 2020*
+* Creating an automated early-warning system preventing IBM’s $8bn supply chain from potential million-dollar losses 
+* Building a crawler using scrapy (Python) that collects ~60m news articles stored in GCP and processed using Spark
+* Organizing the unstructured text using word2vec embeddings, topic modeling, and sentiment analysis (VADER)
+* Generating a CNN classifier in keras to identify potential risks from processed articles (accuracy to date: ~90%)
 
-**Machine Learning** | *Chicago Fire (MLS) - Optimizing Scouting in Soccer*<br/>
+**Trading Software (Real-Time Intelligent Systems)**<br/>
+*Apr 2020-Jun 2020*
+* Coding a software that connects with a given exchange (TCP client) and uses a trading algorithm for decision making
+
+**Pac-Man Gaming AI (Reinforcement Learning)**<br/>
+*Jan 2020-Mar 2020*
+* Created a Deep Q-Network (DQN) on 150k epochs using keras to train an agent playing Pac-Man (gym.openai.com) and improved the average score from ~150 points for the baseline model to ~1,000 points 
+
+**Predicting undervalued soccer players (Machine Learning)**<br/>
 *Jun 2019-Aug 2019*
-* Developed a model that allows clubs to search for players with a given skillset and amongst those identify the most undervalued ones, which proved to save the club up to 90% of transfer fees relative to other players with similar skills 
-* Processed data related to >18k players in MySQL and implemented anomaly detection and predictive models in Python 
-* Presented the findings to the head of analytics at Chicago Fire, the Chicago-based MLS club
-
-**Applied Statistics** | *Analyzing Treasury Bonds and Interest Rates*<br/>
-*Apr 2019-May 2019*
-* Leveraged statistical analysis, such as PCA and linear regression, for analyzing treasury bonds and interest rates in R 
-* Deployed Logistic Regression to predict tightening and easing cycles in monetary policy with an accuracy of ~80% 
+* Built a ML pipeline that identifies undervalued soccer players and presented results to the head of analytics at Chicago Fire
+* Identified similar players using KNN, isolated undervalued players using anomaly detection (DBSCAN, Isolation Forest, SVM-One-Class), and predicted fair market value using linear regression, random forest, XGBoost, and SVR (all Python) 
 
 ### OTHER
 
