@@ -41,7 +41,7 @@
 * Creating an automated early-warning system preventing IBM’s $8bn supply chain from potential million-dollar losses 
 * Building a crawler using scrapy (Python) that collects ~60m news articles stored in GCP and processed using Spark
 * Organizing the unstructured text using word2vec embeddings, topic modeling, and sentiment analysis (VADER)
-* Generating a CNN classifier in keras to identify potential risks from processed articles (accuracy to date: ~90%)
+* Generating a classifier to identify potential risks from processed articles (accuracy to date: ~90%)
 
 **Trading Software (Real-Time Intelligent Systems)**<br/>
 *Apr 2020-Jun 2020*
