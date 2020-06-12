@@ -1,0 +1,106 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #F6F5F9;
+}
+
+/*--- navigation bar ---*/
+
+.navbar {
+  background:#1B153E;
+}
+
+.nav-link,
+.navbar-brand {
+  color: #fff;
+  cursor: pointer;
+}
+
+.nav-link {
+  margin-right: 2em !important;
+}
+
+.nav-link:hover {
+  color: #000;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+/*--- page content container ---*/
+header {
+  background-image: url("images/background2.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}*/
+header.overlay {
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+@media only screen and (min-width: 768px) {
+  header {
+    padding: 313px 0;
+  }
+}
+.description {
+  left: 50%;
+  position: absolute;
+  top: 45%;
+  transform: translate(-50%, -55%);
+  text-align: center;
+}
+.description h1 {
+  color: #404040;
+}
+.description p {
+  color: #404040;
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+/*--- carousel ---*/
+.carousel-item,
+.carousel-inner,
+.carousel-inner img {
+  height: 100%;
+  width: 100%;
+}
+.carousel-item {
+  text-align: center;
+}
+.carousel {
+  height: 400px;
+}
+
+
+/*--- footer ---*/
+.footer {
+  background: #FFFF;
+  padding: 25px;
+}
+.footer a {
+  color: #70726F;
+  font-size: 20px;
+  padding: 30px;
+  transition: all .5s ease;
+}
+.footer a:hover {
+  color: white;
+}
+
+/*--- Card columns projects ---*/
+.card-columns {
+  @include media-breakpoint-only(lg) {
+    column-count: 4;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 5;
+  }
+}
